@@ -1,0 +1,12 @@
+
+body{
+background-color: rgb(211, 224, 224);
+}
+
+h1{
+    color: blue;
+    text-align: center;
+    block-size: auto;
+    font-display: 16px;
+    
+}
